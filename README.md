@@ -1,7 +1,7 @@
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 # Shamir-Secret-Sharing
 
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=plastic&logo=c&logoColor=white"/> ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=plastic&logo=codechef)
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=plastic&logo=c&logoColor=white"/> ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github) ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=plastic&logo=codechef)
 
 A C implementation constricting to the Galois Field(256) of the following [**problem**](https://www.codechef.com/IPTS2019/problems/CTS1).
 
